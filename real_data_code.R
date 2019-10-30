@@ -4,7 +4,7 @@ library(mice)
 library(numDeriv)
 library(rootSolve)
 # Load the relevant code
-source('semi_sensitivity_binary.R')
+source('semi_sensitivity_binary_Y_binary_Z.R')
 
 ###############################################
 
